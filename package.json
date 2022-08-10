@@ -1,0 +1,15 @@
+{
+  "name": "api_udaan",
+  "version": "1.0.0",
+  "description": "\"for udaan second api round\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "firstRun"
+  },
+  "author": "rohan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0"
+  }
+}
